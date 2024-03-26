@@ -1,0 +1,15 @@
+Title: The user can view the information about the amount recevied in case of trade-in
+Description: The user can view the information about the amount recevied in case of trade-in for an iPhone 15 in exchange for an iPhone 12 Pro Max
+Priority: 4
+Test Case type: UI
+Automation status: Yes
+Pre-Conditions: browser
+Environment: "https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15-pro-max"
+Test Steps: open browser, navigate to "https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15-pro-max", localizate and press iPhone 11 box, choose iPhone 12 from the list, localizate an press iPhone 15 box, choose iPhone 15 Pro Max 
+Test Data: "https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15-pro-max"
+Expected results: the user can see how much he will receive for his old device
+Actual Results: the user see how much he will receive for his old device
+Attachment:
+Execution Status: passed
+Name of QA: Mihail Panuța
+Date and Time: 26 march 2024 20:00
