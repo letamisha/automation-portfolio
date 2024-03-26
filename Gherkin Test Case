@@ -1,0 +1,5 @@
+Feature: The user should see how much he will get for the device
+Scenario: User can view how much he will get for his device
+  Given: The user is on the device comparison page
+  When: The user presses the button to choose the device he wants to hand over in trade in
+  Then: The user should see how much he will get for his device
