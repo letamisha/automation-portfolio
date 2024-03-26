@@ -1,0 +1,12 @@
+Bug Report ID: 1
+Summary: User cannot access custom link to compare iphone 11 vs iphone 13
+Description: User cannot access custom link to compare iphone 11 vs iphone 13 pro max
+Pre-conditions: browser, macOS
+Enviroment: "https://www.apple.com/iphone/why-upgrade/?from=iphone-11&to=iphone-13-pro-max"
+Steps to reproduce: 3
+Expected results: The user can access the link to compare devices
+Actual results: 
+Attachment:
+Attemps to repeat:
+Severity:
+Priority:
